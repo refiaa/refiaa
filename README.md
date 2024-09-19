@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Header Image -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=abc4ff&text=Refiaa&height=150&fontSize=60&desc=Writing%20some%20nerdy%20stuff.&descAlignY=75&descAlign=60" alt="Transparent Capsule" />
+</p>
 
-<!--
-**refiaa/refiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats Section -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Y_&layout=compact&hide_border=true" alt="WakaTime Stats" />
+    &nbsp;&nbsp;
+    <a href="https://github.com/refiaa/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=refiaa&show_icons=true&theme=&hide_border=true" alt="Refiaa's GitHub stats" />
+    </a>
+</p>
