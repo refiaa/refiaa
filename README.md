@@ -7,7 +7,4 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Y_&layout=compact&hide_border=true" alt="WakaTime Stats" />
     &nbsp;&nbsp;
-    <a href="https://github.com/refiaa/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=refiaa&show_icons=true&theme=&hide_border=true" alt="Refiaa's GitHub stats" />
-    </a>
 </p>
